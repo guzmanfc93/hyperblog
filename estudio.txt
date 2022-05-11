@@ -1,8 +1,5 @@
-Este es el segundo pueba del primer archivo archivo de prueba con git y github
+Este es el primer archivo de prueba con git y github
 
 espero no fallar jejej
 
 hay te voy san pedro
- este seria otro cambio 
-
-Hoy Hablaremos de su vida. y de su maestria.
