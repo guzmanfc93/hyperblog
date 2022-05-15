@@ -3,3 +3,5 @@ Este es el primer archivo de prueba con git y github
 espero no fallar jejej
 
 hay te voy san pedro
+
+Mañana nos enfocaremos en su vida laborarl.
